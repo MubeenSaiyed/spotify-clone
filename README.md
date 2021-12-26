@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+##### whats in this build ----------------------------
+
+# user Authentication
+
+# spotify API
+
+# responsive Design
+
+# Material UI(icons)
+
+# react context API(like redux)
+
+# Modern Tech
+
+# React Hooks Functional(hooks , state)
+
+# Entire React Tech Stack
