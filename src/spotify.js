@@ -1,7 +1,7 @@
 export const authEndpoint = "https://accounts.spotify.com/authorize";
 
-// const redirectUrl = "http://localhost:3000/";
-const redirectUrl = "/";
+// const redirectUrl = "http://localhost:8888/callback";
+const redirectUrl = "https://spotifyclone888.netlify.app";
 const clientId = "9281dee6a78045d6a3ea016021080447";
 
 const scopes = [
